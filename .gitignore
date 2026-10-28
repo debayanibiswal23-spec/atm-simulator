@@ -1,0 +1,5 @@
+atm
+*.exe
+*.o
+*.out
+.vscode/
